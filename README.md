@@ -1,9 +1,11 @@
-<img height="250px" align="right" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
+
 <h1 align="center">Hi there 👋, my name is Lukas Freitas</h1>
 <h3 align="center">Born in Brazil. Ready for the world.</h3>
 <h3 align="center">I'm a full-time father of a couple of the cutest cats and husband of the most beautiful girl.</h3>
 <h3 align="center">I love learning more and more about almost everything and solving problems as if my life depended on it.</h3>
 <h3 align="center">I believe in liberty more than anything and, therefore, that NOBODY should NEVER have the power to force how someone should live out their lives.</h3>
+
+<img height="250px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurylukas&label=Profile%20views&color=0e75b6&style=flat" alt="maurylukas" /> </p>
 
