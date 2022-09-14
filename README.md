@@ -1,3 +1,4 @@
+<img height="350px" align="right" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
 <h1 align="center">Hi there 👋, my name is Lukas Freitas</h1>
 <h3 align="center">Born in Brazil. Ready for the world.</h3>
 <h3 align="center">I'm a full-time father of a couple of the cutest cats and husband of the most beautiful girl.</h3>
