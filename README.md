@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Lukas Freitas</h1>
+<h1 align="center">Hi there 👋, my name is Lukas Freitas</h1>
 <h3 align="center">Born in Brazil. Ready for the world.</h3>
 <h3 align="center">I'm a full-time father of a couple of the cutest cats and husband of the most beautiful girl.</h3>
 <h3 align="center">I love learning more and more about almost everything and solving problems as if my life depended on it.</h3>
@@ -8,9 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurylukas" alt="maurylukas" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://maurylukas.herokuapp.com/](https://maurylukas.herokuapp.com/)
+- 👨‍💻 All of my developer projects are available at: [https://maurylukas.herokuapp.com/](https://maurylukas.herokuapp.com/)
 
-- 📫 How to reach me **maurylukas@yahoo.com**
+- 💬 Ask me about **Data Science, Cats, Plants, Cryptocurrencies, Animes, Games, Movies, Series, K-pop songs**
+
+- 📫 How to reach me: **maurylukas@yahoo.com**
+
+- 📄 Know about my experiences: [https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view?utm_content=DAFMHeohufA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view?utm_content=DAFMHeohufA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurylukas&show_icons=true&locale=en" alt="maurylukas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurylukas&" alt="maurylukas" /></p>
+
