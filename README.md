@@ -13,7 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurylukas" alt="maurylukas" /></a> </p>
 
-- 👨‍💻 All of my developer projects are available at: [https://maurylukas.herokuapp.com/](https://maurylukas.herokuapp.com/)
+- 🔭 My current portfolio: [https://troopl.com/maurylukas](https://troopl.com/maurylukas)
+
+- 👨‍💻 All of my old developer projects are available at: [https://maurylukas.herokuapp.com/](https://maurylukas.herokuapp.com/)
 
 - 💬 Ask me about **Data Science, Cats, Plants, Cryptocurrencies, Animes, Games, Movies, Series, K-pop songs**
 
