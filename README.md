@@ -1,5 +1,8 @@
 <h1 align="center">Hi there👋, I'm Lukas Freitas</h1>
-<h3 align="center">Born in Brazil. Ready for the world. I'm a full-time father of a couple of the cutest cats and husband of the most beautiful girl. I love learning more and more about almost everything and solving problems as if my life depended on it. I believe in liberty more than anything and, therefore, that NOBODY should NEVER have the power to force how someone should live out their lives.</h3>
+<h3 align="center">Born in Brazil. Ready for the world.</h3>
+<h3 align="center">I'm a full-time father of a couple of the cutest cats and husband of the most beautiful girl.</h3>
+<h3 align="center">I love learning more and more about almost everything and solving problems as if my life depended on it.</h3>
+<h3 align="center">I believe in liberty more than anything and, therefore, that NOBODY should NEVER have the power to force how someone should live out their lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurylukas&label=Profile%20views&color=0e75b6&style=flat" alt="maurylukas" /> </p>
 
