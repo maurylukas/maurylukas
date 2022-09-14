@@ -5,7 +5,9 @@
 <h3 align="center">I love learning more and more about almost everything and solving problems as if my life depended on it.</h3>
 <h3 align="center">I believe in liberty more than anything and, therefore, that NOBODY should NEVER have the power to force how someone should live out their lives.</h3>
 
-<img height="250px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
+<div align="center">
+  <img height="300px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurylukas&label=Profile%20views&color=0e75b6&style=flat" alt="maurylukas" /> </p>
 
