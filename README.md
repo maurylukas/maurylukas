@@ -32,8 +32,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maurylukas&show_icons=true&locale=en" alt="maurylukas" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maurylukas&" alt="maurylukas" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maurylukas&" alt="maurylukas" /></p>
 
-<div align="left">
-  <p><img height="300px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/></p>
-</div>
+<p>&nbsp;<img height="250px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/></p>
