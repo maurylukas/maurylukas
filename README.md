@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **maurylukas@yahoo.com**
 
-- 📄 Know about my experiences: [https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view?utm_content=DAFMHeohufA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view?utm_content=DAFMHeohufA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences: [https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view](https://www.canva.com/design/DAFMHeohufA/hXYsIaXdeMXoXIoAZWcPaA/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
