@@ -35,5 +35,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maurylukas&" alt="maurylukas" /></p>
 
 <div align="left">
-  <img height="300px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/>
+  <p><img height="300px" align="center" src="https://user-images.githubusercontent.com/97759783/190134543-dcdb5301-19d3-4af4-84f3-907d16a97bbf.jpg" alt="A photo of my wife, my two cats and me"/></p>
 </div>
