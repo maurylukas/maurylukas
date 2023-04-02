@@ -11,7 +11,7 @@
 
 - 🔭 My current portfolio: [https://troopl.com/maurylukas](https://troopl.com/maurylukas)
 
-- 👨‍💻 All of my old developer projects are available at: [https://maurylukas.herokuapp.com/](https://maurylukas.herokuapp.com/)
+- 👨‍💻 All of my old developer projects are available at: [https://maurylukas.onrender.com/](https://maurylukas.onrender.com/)
 
 - 💬 Ask me about **Data Science, Cats, Plants, Cryptocurrencies, Animes, Games, Movies, Series, K-pop songs**
 
